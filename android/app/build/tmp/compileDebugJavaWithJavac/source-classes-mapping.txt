@@ -1,0 +1,14 @@
+com/cryptotask/ReactNativeFlipper.java
+ com.cryptotask.ReactNativeFlipper
+ com.cryptotask.ReactNativeFlipper$1
+ com.cryptotask.ReactNativeFlipper$2
+ com.cryptotask.ReactNativeFlipper$2$1
+com/cryptotask/BuildConfig.java
+ com.cryptotask.BuildConfig
+com/cryptotask/MainActivity.java
+ com.cryptotask.MainActivity
+com/cryptotask/MainApplication.java
+ com.cryptotask.MainApplication
+ com.cryptotask.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
